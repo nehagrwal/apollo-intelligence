@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/apollo-intelligence/sitemap.xml
+Sitemap: https://apollo-intelligence.vercel.app/sitemap-vercel.xml
+Sitemap: https://apollo-intelligence.pages.dev/sitemap-cloudflare.xml
